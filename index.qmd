@@ -1,0 +1,14 @@
+---
+title: "Porfolio"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+<!-- https://deepshamenghani.quarto.pub/portfolio-with-quarto-workshop/#/about.qmd-file-defines-the-about-page-structure -->

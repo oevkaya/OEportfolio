@@ -1,0 +1,82 @@
+---
+title: "Teaching"
+image: Ozan.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/oevkaya
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ozanevkaya/
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@ozanevkaya
+    - icon: google-scholar
+      text: Google Scholar
+      href: http://tinyurl.com/oevkaya
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ozanevkaya
+---
+
+School of Mathematics, University of Edinburgh, UK \
+**University Teacher in Statistics**
+
+<div class="justify-text">
+
+### Organised {.test}
+
+- *[Introduction to Data Science (UG)](http://www.drps.ed.ac.uk/24-25/dpt/cxmath08077.htm)*:
+<div class="justify-text">
+This is an introductory level course on data science and statistical thinking. 
+During 2023-24, I have been the Course organiser. This course nominated by students for the outstanding course teaching award. 
+</div>
+
+- *[Machine Learning in Python (PGT)](http://www.drps.ed.ac.uk/24-25/dpt/cxmath11205.htm)*: 
+<div class="justify-text">
+This course is intended to provide an introduction to machine learning techniques. After delivering two weeks in 2021, I have been the Course organiser for academic year 2022-2023 and course nominated by students for the outstanding course teaching award.
+</div>
+
+- *[Advanced Statistics (PGT)](http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_math.htm)*: 
+<div class="justify-text">
+This Year 2 PGT course for the MSc in Epidemiology offered by Edinburgh Medical School: Usher Institute. I have been one of the organisers for 2024 cohort and responsible for the course material redesign/creation. 
+</div>
+
+### Delivered {.test}
+
+- *[Statistics (UG)](http://www.drps.ed.ac.uk/24-25/dpt/cxmath08051.htm)*: 
+<div class="justify-text">
+This course provides an introduction to the basic concepts of Statistics including the examples with R programming language. I have been co-delivering the course focusing on the regression model and Anova.
+</div>
+
+- *[Facets of Mathematics (UG)](http://www.drps.ed.ac.uk/23-24/dpt/cx_sb_math.htm)*: 
+<div class="justify-text">
+This course is based around three key themes from different areas of mathematics, and develops important skills in basic Python, mathematical writing, and document creation using LaTeX. I have been responsible for the third theme about linear models.
+</div>
+
+---
+
+**OTHER TEACHING**
+
+<p style="text-align: justify;">
+
+- Department of Management Information Systems, Istinye University, Istanbul, Turkey \
+**Part Time Lecturer (Remote), Sep. 2022 - ** \
+*Designed and Delivered: Data, AI and Ethics (22-23 Fall), Introduction to Generative AI (23-24 Fall), Data viz with R*\
+*Delivered: Data Science (22-23 Spring)*
+
+- Department of Business Administration, TED University, Ankara, Turkey \
+**Part Time Lecturer (Remote), Oct. 2021 - Dec. 2022** \
+*Designed and Delivered: [Statistical Learning with R](https://github.com/oevkaya/Stats_Learn_website) (UnderGrad and Grad level)*
+
+- Department of Mathematics, Istanbul Bilgi University, İstanbul, Turkey \
+**Part Time Lecturer  (Remote), Febr. 2021 - June. 2021** \
+*Delivered: Computational and Mathematical Numeracy for Social Scientists II*
+
+- Department of Mathematics, Atılım University, Ankara, Turkey \
+**Lecturer , 2019 - 2020 Academic year** \
+*Delivered: Introduction to Statistics and Probability I*
+
+<p style="text-align: justify;">
