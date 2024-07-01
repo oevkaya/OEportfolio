@@ -1,7 +1,2 @@
-[build]
-  publish = "_site"
-  command = "curl -sSL https://install-quarto.com | bash && quarto render"
-
-[build.environment]
-  QUARTO_VERSION = "latest"
-
+[[plugins]]
+package = "@quarto/netlify-plugin-quarto"
