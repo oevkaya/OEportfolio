@@ -12,7 +12,6 @@ website:
       - Projects.qmd
       - outreach.qmd
     right:
-      - contact.qmd
       - icon: github
         href: https://github.com/oevkaya
       - icon: linkedin
