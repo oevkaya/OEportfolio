@@ -16,9 +16,6 @@ about:
     - icon: google-scholar
       text: Google Scholar
       href: http://tinyurl.com/oevkaya
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ozanevkaya
 ---
 
 ### SoR / SwDS Dissertation Projects {.test}
@@ -43,7 +40,16 @@ about:
 
 ------------------------------------------------------------------------
 
--   **Turkey Stock market Dependencies: Study based on wavelet-vine copula approach** \
+-   **Clustering Dementia Characteristics Using Vine Copula Mixture Models**\
+    Supervising Mellow Chen, 2024-2025
+
+-   **Machine Learning Meets Hospitality: Explainable AI in Hotel Booking Cancellations**\
+    Supervising Reuben Forman, Jiajun Li and Yuhang Zheng 2024-2025
+
+-   **Experimenting on Portfolio Allocations: Turkey ISE100 Financial Market**\
+    Supervising Duru Kilkisli (individual), Niall Baxter, Mark Corray and Yuxuan Qian (group), UG group project, 2024-2025
+
+-   **Turkey Stock market Dependencies: Study based on wavelet-vine copula approach**\
     Supervising Tim Xu, Huari Yang and Maiyue Xu, UG group project, 2023-2024
 
 -   **Starting journey for Explainable and Responsible Artificial Intelligence: Experiments on Insurance Data**\
@@ -54,12 +60,20 @@ about:
 
 ------------------------------------------------------------------------
 
-
 ### Others {.test}
 
 ------------------------------------------------------------------------
 
--   **Understanding LLMs and GenAI** \
+-   **Exploiting clustering with vine copulas to examine the Scottish Multiple Deprivation Index 2020 (SIMD-2020)**\
+    [MIORPA (Mathematical Institute’s Online Research Projects with Africa)](https://www.maths.ox.ac.uk/outreach/miorpa), July-September 2025
+
+-   **Text2Text and Text2Image Landscape**\
+    [Turkish Mathematics Assocation - Direct Reading Program with Yagmur Seda Sankutlu](https://sites.google.com/view/drpturkiye/previous-programs/summer-2024/symposium), July-August 2024
+    
+-   **Evidence of Turkish Stock Market movements during COVID-19 Pandemic: A Wavelet-Vine-GARCH method**\
+    University of Edinburgh - Vacation Scholarship with Stefano Lema, Summer 2024
+
+-   **Understanding LLMs and GenAI**\
     [Turkish Mathematics Assocation - Direct Reading Program with Emre Anıl Oguz](https://sites.google.com/view/drp-turkey/previous-programs/summer-2023/symposium), July-August 2023
 
 -   **Application of Algorithmic Trading in Portfolio Optimization**\

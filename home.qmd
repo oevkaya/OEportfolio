@@ -16,14 +16,12 @@ about:
     - icon: google-scholar
       text: Google Scholar
       href: http://tinyurl.com/oevkaya
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ozanevkaya
 ---
 
 ![](Mathematics_2col_cmyk.png){width=30%}
 
-**University Teacher in Statistics**, School of Mathematics, [University of Edinburgh](https://www.ed.ac.uk/)
+
+**Lecturer in Statistics**, School of Mathematics, [University of Edinburgh](https://www.ed.ac.uk/)
 
 James Clerk Maxwell Building- Peter Guthrie Tait Road - (Office 2257)
 
@@ -36,8 +34,9 @@ Ozan.Evkaya@ed.ac.uk
 I am a Fellow of the Higher Education Academy (FHEA), committed to professionalism in learning and teaching in higher education under the UK Professional Standards Framework for teaching and learning support in higher education.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="TA_2024_badge.jpg" alt="Logo 1" style="width: 40%;">
-  <img src="TA_2023_badge.jpg" alt="Logo 2" style="width: 40%;">
+  <img src="TA_2025_badge.jpg" alt="Logo 1" style="width: 30%;">
+  <img src="TA_2024_badge.jpg" alt="Logo 2" style="width: 30%;">
+  <img src="TA_2023_badge.jpg" alt="Logo 3" style="width: 30%;">
 </div>
 
 ---
@@ -99,8 +98,6 @@ Contributor of;
 </div>
 
 ---
-
-
 
 
 <!-- ![](TA_2024_badge.jpg){width=50%} -->

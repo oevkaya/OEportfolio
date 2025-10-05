@@ -16,13 +16,10 @@ about:
     - icon: google-scholar
       text: Google Scholar
       href: http://tinyurl.com/oevkaya
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ozanevkaya
 ---
 
 School of Mathematics, University of Edinburgh, UK\
-**University Teacher in Statistics**
+**Lecturer in Statistics**
 
 ::: justify-text
 ### Organised {.test}
@@ -48,6 +45,18 @@ School of Mathematics, University of Edinburgh, UK\
 
 ### Delivered {.test}
 
+-   [*Representing Data (PGT)*](http://www.drps.ed.ac.uk/24-25/dpt/cxefie11002.htm):
+
+    ::: justify-text
+    This course will introduce students to practical data representation. It will enable students to understand data visualisation theory and practice, while simultaneously inviting them to challenge and extend these concepts throughout the course. Students will examine a range of different methodologies and practices for representing data in a variety of formats including physical and embodied formats.
+    :::
+
+-   [*Insights Through Data (PGT)*](http://www.drps.ed.ac.uk/24-25/dpt/cxefie11025.htm):
+
+    ::: justify-text
+    This course will introduce students to the practical aspects of data science. It will provide a basic background in data science skills and methodologies via direct interaction with data through programming, statistics, and machine learning. The goal of the course is to facilitate a spectrum of insights by analysing different data sets and interpreting the results.
+    :::
+
 -   [*Statistics (UG)*](http://www.drps.ed.ac.uk/24-25/dpt/cxmath08051.htm):
 
     ::: justify-text
@@ -72,9 +81,13 @@ School of Mathematics, University of Edinburgh, UK\
 
 <p style="text-align: justify;">
 
+-   Data Science MSc, University of London, UK\
+    **Online Tutor (Remote), April. 2025 -**\
+    *Tutored: Statistics and Statistical Data Mining, Financial data modelling*
+
 -   Department of Management Information Systems, Istinye University, Istanbul, Turkey\
     **Part Time Lecturer (Remote), Sep. 2022 -**\
-    *Designed and Delivered: Data, AI and Ethics (22-23 Fall), Introduction to Generative AI (23-24 Fall), Data viz with R*\
+    *Designed and Delivered: Data, AI and Ethics (22-23 Fall), Introduction to Generative AI (23-24 Fall), Data viz with R (23-25), Introduction to Deep Learning (24-25 Fall), Business Intelligence (24-25 Spring)*\
     *Delivered: Data Science (22-23 Spring)*
 
 -   Department of Business Administration, TED University, Ankara, Turkey\

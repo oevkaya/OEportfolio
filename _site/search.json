@@ -1,15 +1,57 @@
 [
   {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "School of Mathematics, University of Edinburgh, UK\nLecturer in Statistics\n\nOrganised\n\nIntroduction to Data Science (UG):\n\nThis is an introductory level course on data science and statistical thinking. During 2023-24, I have been the Course organiser. This course nominated by students for the outstanding course teaching award.\n\n\n\nMachine Learning in Python (PGT):\n\nThis course is intended to provide an introduction to machine learning techniques. After delivering two weeks in 2021, I have been the Course organiser for academic year 2022-2023 and course nominated by students for the outstanding course teaching award.\n\nAdvanced Statistics (PGT):\n\nThis Year 2 PGT course for the MSc in Epidemiology offered by Edinburgh Medical School: Usher Institute. I have been one of the organisers for 2024 cohort and responsible for the course material redesign/creation.\n\n\n\nDelivered\n\nRepresenting Data (PGT):\n\nThis course will introduce students to practical data representation. It will enable students to understand data visualisation theory and practice, while simultaneously inviting them to challenge and extend these concepts throughout the course. Students will examine a range of different methodologies and practices for representing data in a variety of formats including physical and embodied formats.\n\nInsights Through Data (PGT):\n\nThis course will introduce students to the practical aspects of data science. It will provide a basic background in data science skills and methodologies via direct interaction with data through programming, statistics, and machine learning. The goal of the course is to facilitate a spectrum of insights by analysing different data sets and interpreting the results.\n\nStatistics (UG):\n\nThis course provides an introduction to the basic concepts of Statistics including the examples with R programming language. I have been co-delivering the course focusing on the regression model and Anova.\n\nFacets of Mathematics (UG):\n\nThis course is based around three key themes from different areas of mathematics, and develops important skills in basic Python, mathematical writing, and document creation using LaTeX. I have been responsible for the third theme about linear models.\n\nRegression and Simulation Methods (PhD):\n\nThis course is based on the key topics which lie at the heart of research in statistical methods and form a basis for more advanced and sophisticated ideas. For two semester, I delivered second half of the course, by covering topics such as Generalised linear models and Simulation and bootstrapping.\n\n\n\nOTHER TEACHING\n\n\nData Science MSc, University of London, UK\nOnline Tutor (Remote), April. 2025 -\nTutored: Statistics and Statistical Data Mining, Financial data modelling\nDepartment of Management Information Systems, Istinye University, Istanbul, Turkey\nPart Time Lecturer (Remote), Sep. 2022 -\nDesigned and Delivered: Data, AI and Ethics (22-23 Fall), Introduction to Generative AI (23-24 Fall), Data viz with R (23-25), Introduction to Deep Learning (24-25 Fall), Business Intelligence (24-25 Spring)\nDelivered: Data Science (22-23 Spring)\nDepartment of Business Administration, TED University, Ankara, Turkey\nPart Time Lecturer (Remote), Oct. 2021 - Dec. 2022\nDesigned and Delivered: Statistical Learning with R (UnderGrad and Grad level)\nDepartment of Mathematics, Istanbul Bilgi University, İstanbul, Turkey\nPart Time Lecturer (Remote), Febr. 2021 - June. 2021\nDelivered: Computational and Mathematical Numeracy for Social Scientists II\nDepartment of Mathematics, Atılım University, Ankara, Turkey\nLecturer , 2019 - 2020 Academic year\nDelivered: Introduction to Statistics and Probability I"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Publications",
+    "section": "",
+    "text": "2024\nVine Copula Approach to Understand the Financial Dependence of the Istanbul Stock Exchange Index)\nEVKAYA, O., GUR, I., KULEKCI, B. Y. and POYRAZ, G. (2024) – Computational Economics.\n\n\n\n2023\nDependence Analysis of the ISE100 Banking Sector Using Vine Copula (in Turkish)\nKULEKCI, B. Y., POYRAZ, G., GUR, I. and EVKAYA, O. (2023) – Journal of Istanbul Economics.\n\nModeling asymmetric dependence pattern with directional dependence measures\nKARA, E. K., KEMALOGLU, S. A. and EVKAYA, O. (2023) – Hacettepe Journal of Mathematics and Statistics, 52(4).\n\n\n\n2022\nSectoral electricity consumption modeling with D-vine quantile regression: The US electricity market case\nEVKAYA, O., YILMAZ, B. and YUKSEL, E. (2022) – Energy Sources, Part B: Economics, Planning, and Policy, 18(1).\n\n\n\n2020\nForecasting Drought using Machine Learning Tools with Transformed Time Series Data\nEVKAYA, O. and KURNAZ, F. S. (2020) –Journal of Applied Statistics, Special Issue.\n\nCD-Vine Model for Capturing Complex Dependence\nEVKAYA, O., YOZGATLıGIL, C. and SELCUK-KESTEL, A. S. (2020) – Journal of Applied Statistics, Special Issue.\n\n\n\n2019\nDrought Analysis Using Copula Approach: A Case Study for Turkey\nEVKAYA, O., YOZGATLıGIL, C. and SELCUK-KESTEL, A. S. (2019) – Communications in Stats. Case Studies and Data Analysis, Special Issue, 5(3), 243–260.\n\n\n\n2018\nMeasuring Dependence between Electricity Consumption and Contributing Indicators via Copulas: Turkish Case\nEVKAYA, O., YOZGATLıGIL, C. and SELCUK-KESTEL, A. S. (2018) – Gazi University Journal of Science, 31(4), 1284–1296.\n\n\n\n2017\nThe Determination of the Affecting Factors of the Number of Babies Born Alive in Multiple Pregnancies with Poisson Models\nERKAN, G., EVKAYA, O. AND TURKAN, S. (2017) – Turkiye Klinikleri Journal of Biostatistics, 9(3), 222–229.\n\nAssessment of Index-based Drought Insurance\nEVKAYA, O., YILDIRAK, S. K. and SELCUK-KESTEL, A. S. (2017) – Ekonomik Yaklasim, 28(105), 1–18.\n\n\n\n\n\n\nPreprints\nSemi-parametric approach for copula directed acyclic graphs EVKAYA, O., CLAESKENS, G. and GIJBELS, I.\nClustering mortality data with Non-parametric Bayesian approach EVKAYA, O., and SCARPA, B.\nDecoding AI: The inside story of data analysis in ChatGPT EVKAYA, O., CARVALHO, M.\nAnalysis of drought characteristics using parametric and non-parametric copulas Lu, H. and EVKAYA, O."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "My Blogs",
+    "section": "",
+    "text": "I am interested in writing short blogs about various topics, recently focusing more on Gen-AI and its impact on education. Two blog places for me recently,\nTeaching Matters\nMy Medium"
+  },
+  {
+    "objectID": "outreach.html",
+    "href": "outreach.html",
+    "title": "Talks",
+    "section": "",
+    "text": "In addition to my official teaching and research duties, I have been interested in giving online training courses since COVID pandemic. These efforts turned to be a permanent habit and I shared my experiences with interested people regularly. Besides, in an irregular setting, happy to share some short mediums for different topics and ideas.\n\n\n\nGenerative AI\n\nBeyond using LLM interfaces: Backstage exploration\nCentre for Data, Culture and Society Summer School. A Gentle Introduction to Coding for Data Analysis Stream, June 2024.\nEfficient Prompting for Generative AI Tools\nCentre for Data, Culture and Society Summer School, January 2024.\nTalking with your data: Langchain use case\nUniversity of Edinburgh, School of Mathematics, ML Reading Group, December 2023.\nHarnessing Gen-AI for teaching/research\nDirected Reading Program (DRP2023) - Professional Development Talks, July 2023.\n\n\n\n\nConference Courses\n\nHarnessing Generative Artificial Intelligence (GEN-AI) for Teaching/Learning/Research\n4th International Applied Statistics Congress September 30, 2023\nAcademic Writing and Reporting Tools\n3rd International Applied Statistics Congress June 21, 2022\nBasics of Programming with Python\n2nd International Applied Statistics Congress 29 June-2 July 2021\n\n\n\n\nSocities & Student Clubs\n\nData Visualization with R\nR Ladies Turkey Ankara talk, September 2021\nData Science with R (5 weeks)\nData Science Earth Online Course, Summer 2021\nThe Use of R Language in the Insurance Industry and Thinking future loudly\nTurkish Actuary Society invited, November 2021\nBasic Statistics with Python\nGazi University, Statistics Club, May 2021.\nAbout Data Science\nYozgat Bozok University, Departmental Seminar, May 2021.\nUse of R for Actuarial Science\nKirikkale University, Seminar for Course, May 2021.\nAn Introduction to R (2 days)\nAYBU Statistics & Data Science Club, 20-21 March 2021\nAn Introduction to R Programming (3 days)\nMETU Statistics Club, 6-7-8 February 2021\nTime Series with R (2 days)\nESTU Veri Bilimi Klubü, 1-2 December 2020\nR Language: A Fresh Start (3 days)\nMETU SIAM Student Chapter, 29 Nov.- 1 Dec. 2020"
+  },
+  {
+    "objectID": "home.html",
+    "href": "home.html",
+    "title": "Home",
+    "section": "",
+    "text": "Lecturer in Statistics, School of Mathematics, University of Edinburgh\nJames Clerk Maxwell Building- Peter Guthrie Tait Road - (Office 2257)\nOzan.Evkaya@ed.ac.uk\n\n\nI am a Fellow of the Higher Education Academy (FHEA), committed to professionalism in learning and teaching in higher education under the UK Professional Standards Framework for teaching and learning support in higher education.\n\n  \n\n\n\nCo-organiser of;\n\n           \n\n\nMember of;\n\n        \n\n\n\n\n\n\n\n\n\n\n\nContributor of;"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Ozan Evkaya",
     "section": "",
-    "text": "About\n\nI am University Teacher in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time remote lecturer at Istinye University. In November 2023, I got the fellowship accreditation of Higher Education Academics in UK (FHEA). Previously, I held two postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018.\nOutside of university teaching, I am a co-organiser of Technology Enhanced Mathematical Sciences Education (TEMSE) seminars in School of Math, Generative AI TEMSE co-lead, EdinbR community and RSS Edinburgh local group member.\n\n\nI’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment. I have a certain level of R skills and novice learner for Python programming. I am ambitious about improving my statistical learning skills by leading/organizing/being a part of training workshops. Recently, I am interested in Gen-AI tools and their impacts on teaching and learning.\n\n\n\n\nMain Research Interests\n\n\nCopulas and Its Applications,\nMixture of Vine Copulas,\nDrought Studies,\nStatistical Methods in Finance and Insurance,\nParameter Estimation and Model Selection\nGenerative AI applications\nStatistical Education\n\n\n\n\n\n\nEducation\n\n\nPhD in Statistics, Middle East Technical University (Turkey), 2012-2018\nMSc in Actuarial Science, Middle East Technical University (Turkey), 2009-2012\nBSc in Mathematics, Middle East Technical University (Turkey), 2004-09"
+    "text": "About\n\nI am a Lecturer in Statistics at the School of Mathematics, at the University of Edinburgh, and a part-time remote lecturer at Istinye University. In November 2023, I got the fellowship accreditation of Higher Education Academics in UK (FHEA). Previously, I held two postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018.\nOutside of university teaching, I was a co-organiser of Technology Enhanced Mathematical Sciences Education (TEMSE) seminars in School of Math for 2023-2025, nowadays having the roles of Academic Cohort Lead (ACL), Generative AI TEMSE co-lead, EdinbR community and RSS Edinburgh local group member.\n\n\nI’m looking to collaborate on copulas and its applications, statistical methods for insurance and environment. I have a certain level of R skills and novice learner for Python programming. I am ambitious about improving my statistical learning skills by leading/organizing/being a part of training workshops. Recently, I am interested in Gen-AI tools and their impacts on teaching and learning.\n\n\n\n\nMain Research Interests\n\n\nCopulas and Its Applications,\nMixture of Vine Copulas,\nDrought Studies,\nStatistical Methods in Finance and Insurance,\nParameter Estimation and Model Selection\nGenerative AI applications\nStatistical Education\n\n\n\n\n\n\nEducation\n\n\nPhD in Statistics, Middle East Technical University (Turkey), 2012-2018\nMSc in Actuarial Science, Middle East Technical University (Turkey), 2009-2012\nBSc in Mathematics, Middle East Technical University (Turkey), 2004-09"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you have any questions or inquiries, please fill out the form below:\n\nName \nEmail \nMessage\n\n\nSend"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Porfolio",
+    "title": "Portfolio",
     "section": "",
     "text": "Decoding AI: The inside story of data analysis in ChatGPT\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2024\n\n\nOzan Evkaya, Miguel de Carvalho\n\n\n\n\n\n\n  \n\n\n\n\nMy Blogs\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 5, 2021\n\n\nOzan Evkaya\n\n\n\n\n\n\nNo matching items"
   },
@@ -21,25 +63,11 @@
     "text": "Decoding AI: The inside story of data analysis in ChatGPT\nAs a result of recent advancements in generative AI, the field of Data Science is prone to various changes. This review critically examines the Data Analysis (DA) capabilities of ChatGPT assessing its performance across a wide range of tasks. While DA provides researchers and practitioners with unprecedented analytical capabilities, it is far from being perfect, and it is important to recognize and address its limitations."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "My Blogs",
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "I am interested in writing short blogs about various topics, recently focusing more on Gen-AI and its impact on education. Two blog places for me recently,\nTeaching Matters\nMy Medium"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
-    "title": "Home",
-    "section": "",
-    "text": "University Teacher in Statistics, School of Mathematics, University of Edinburgh\nJames Clerk Maxwell Building- Peter Guthrie Tait Road - (Office 2257)\nOzan.Evkaya@ed.ac.uk\n\n\nI am a Fellow of the Higher Education Academy (FHEA), committed to professionalism in learning and teaching in higher education under the UK Professional Standards Framework for teaching and learning support in higher education.\n\n \n\n\n\nCo-organiser of;\n\n           \n\n\nMember of;\n\n        \n\n\n\n\n\n\n\n\n\n\n\nContributor of;"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Publications",
-    "section": "",
-    "text": "2024\nVine Copula Approach to Understand the Financial Dependence of the Istanbul Stock Exchange Index)\nEVKAYA, O., GUR, I., KULEKCI, B. Y. and POYRAZ, G. (2024) – Computational Economics.\n\n\n\n2023\nDependence Analysis of the ISE100 Banking Sector Using Vine Copula (in Turkish)\nKULEKCI, B. Y., POYRAZ, G., GUR, I. and EVKAYA, O. (2023) – Journal of Istanbul Economics.\n\nModeling asymmetric dependence pattern with directional dependence measures\nKARA, E. K., KEMALOGLU, S. A. and EVKAYA, O. (2023) – Hacettepe Journal of Mathematics and Statistics, 52(4).\n\n\n\n2022\nSectoral electricity consumption modeling with D-vine quantile regression: The US electricity market case\nEVKAYA, O., YILMAZ, B. and YUKSEL, E. (2022) – Energy Sources, Part B: Economics, Planning, and Policy, 18(1).\n\n\n\n2020\nForecasting Drought using Machine Learning Tools with Transformed Time Series Data\nEVKAYA, O. and KURNAZ, F. S. (2020) –Journal of Applied Statistics, Special Issue.\n\nCD-Vine Model for Capturing Complex Dependence\nEVKAYA, O., YOZGATLıGIL, C. and SELCUK-KESTEL, A. S. (2020) – Journal of Applied Statistics, Special Issue.\n\n\n\n2019\nDrought Analysis Using Copula Approach: A Case Study for Turkey\nEVKAYA, O., YOZGATLıGIL, C. and SELCUK-KESTEL, A. S. (2019) – Communications in Stats. Case Studies and Data Analysis, Special Issue, 5(3), 243–260.\n\n\n\n2018\nMeasuring Dependence between Electricity Consumption and Contributing Indicators via Copulas: Turkish Case\nEVKAYA, O., YOZGATLıGIL, C. and SELCUK-KESTEL, A. S. (2018) – Gazi University Journal of Science, 31(4), 1284–1296.\n\n\n\n2017\nThe Determination of the Affecting Factors of the Number of Babies Born Alive in Multiple Pregnancies with Poisson Models\nERKAN, G., EVKAYA, O. AND TURKAN, S. (2017) – Turkiye Klinikleri Journal of Biostatistics, 9(3), 222–229.\n\nAssessment of Index-based Drought Insurance\nEVKAYA, O., YILDIRAK, S. K. and SELCUK-KESTEL, A. S. (2017) – Ekonomik Yaklasim, 28(105), 1–18.\n\n\n\n\n\n\nPreprints\nSemi-parametric approach for copula directed acyclic graphs EVKAYA, O., CLAESKENS, G. and GIJBELS, I.\nClustering mortality data with Non-parametric Bayesian approach EVKAYA, O., and SCARPA, B.\nDecoding AI: The inside story of data analysis in ChatGPT EVKAYA, O., CARVALHO, M.\nAnalysis of drought characteristics using parametric and non-parametric copulas Lu, H. and EVKAYA, O."
+    "text": "SoR / SwDS Dissertation Projects\n\n\nUnderstanding factors of Dementia in depth: Explainable AI (XAI) approach\nSupervising Kezheng Wang, SoR MSc Thesis, Summer 2024\nWavelet based copula approach for modeling market risk: Turkey ISE-100 Case Study\nSupervising Xin Wang, SoR MSc Thesis, Summer 2024\nUnderstanding the product performance of Fouling Control Coatings\nSwDS MSc Thesis with groups - External: AkzoNobel, Summer 2023\nEvaluating Students Attitudes towards Statistics\nSupervising Shuyu Liu, SoR MSc Thesis, Summer 2022\n\n\n\n\nUG Final Year Projects\n\n\nClustering Dementia Characteristics Using Vine Copula Mixture Models\nSupervising Mellow Chen, 2024-2025\nMachine Learning Meets Hospitality: Explainable AI in Hotel Booking Cancellations\nSupervising Reuben Forman, Jiajun Li and Yuhang Zheng 2024-2025\nExperimenting on Portfolio Allocations: Turkey ISE100 Financial Market\nSupervising Duru Kilkisli (individual), Niall Baxter, Mark Corray and Yuxuan Qian (group), UG group project, 2024-2025\nTurkey Stock market Dependencies: Study based on wavelet-vine copula approach\nSupervising Tim Xu, Huari Yang and Maiyue Xu, UG group project, 2023-2024\nStarting journey for Explainable and Responsible Artificial Intelligence: Experiments on Insurance Data\nSupervising Richard Huang and Callum Purcell, UG group project, 2023-2024\nNonparametric copula based drought analysis\nSupervising Hongyi Lu, UG project, 2022-2023\n\n\n\n\nOthers\n\n\nExploiting clustering with vine copulas to examine the Scottish Multiple Deprivation Index 2020 (SIMD-2020)\nMIORPA (Mathematical Institute’s Online Research Projects with Africa), July-September 2025\nText2Text and Text2Image Landscape\nTurkish Mathematics Assocation - Direct Reading Program with Yagmur Seda Sankutlu, July-August 2024\nEvidence of Turkish Stock Market movements during COVID-19 Pandemic: A Wavelet-Vine-GARCH method\nUniversity of Edinburgh - Vacation Scholarship with Stefano Lema, Summer 2024\nUnderstanding LLMs and GenAI\nTurkish Mathematics Assocation - Direct Reading Program with Emre Anıl Oguz, July-August 2023\nApplication of Algorithmic Trading in Portfolio Optimization\nUniversity of Edinburgh - Vacation Scholarship with Rishabh Ramruttun, Summer 2023"
   },
   {
     "objectID": "resume.html",
@@ -47,68 +75,5 @@
     "title": "Resume",
     "section": "",
     "text": "View Resume\nView Publications\nTeaching Statement"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "School of Mathematics, University of Edinburgh, UK\nUniversity Teacher in Statistics\n\nOrganised\n\nIntroduction to Data Science (UG):\n\nThis is an introductory level course on data science and statistical thinking. During 2023-24, I have been the Course organiser. This course nominated by students for the outstanding course teaching award.\n\n\n\nMachine Learning in Python (PGT):\n\nThis course is intended to provide an introduction to machine learning techniques. After delivering two weeks in 2021, I have been the Course organiser for academic year 2022-2023 and course nominated by students for the outstanding course teaching award.\n\nAdvanced Statistics (PGT):\n\nThis Year 2 PGT course for the MSc in Epidemiology offered by Edinburgh Medical School: Usher Institute. I have been one of the organisers for 2024 cohort and responsible for the course material redesign/creation.\n\n\n\nDelivered\n\nStatistics (UG):\n\nThis course provides an introduction to the basic concepts of Statistics including the examples with R programming language. I have been co-delivering the course focusing on the regression model and Anova.\n\nFacets of Mathematics (UG):\n\nThis course is based around three key themes from different areas of mathematics, and develops important skills in basic Python, mathematical writing, and document creation using LaTeX. I have been responsible for the third theme about linear models.\n\nRegression and Simulation Methods (PhD):\n\nThis course is based on the key topics which lie at the heart of research in statistical methods and form a basis for more advanced and sophisticated ideas. For two semester, I delivered second half of the course, by covering topics such as Generalised linear models and Simulation and bootstrapping.\n\n\n\nOTHER TEACHING\n\n\nDepartment of Management Information Systems, Istinye University, Istanbul, Turkey\nPart Time Lecturer (Remote), Sep. 2022 -\nDesigned and Delivered: Data, AI and Ethics (22-23 Fall), Introduction to Generative AI (23-24 Fall), Data viz with R\nDelivered: Data Science (22-23 Spring)\nDepartment of Business Administration, TED University, Ankara, Turkey\nPart Time Lecturer (Remote), Oct. 2021 - Dec. 2022\nDesigned and Delivered: Statistical Learning with R (UnderGrad and Grad level)\nDepartment of Mathematics, Istanbul Bilgi University, İstanbul, Turkey\nPart Time Lecturer (Remote), Febr. 2021 - June. 2021\nDelivered: Computational and Mathematical Numeracy for Social Scientists II\nDepartment of Mathematics, Atılım University, Ankara, Turkey\nLecturer , 2019 - 2020 Academic year\nDelivered: Introduction to Statistics and Probability I"
-  },
-  {
-    "objectID": "teaching.html#online-teaching",
-    "href": "teaching.html#online-teaching",
-    "title": "Teaching",
-    "section": "Online Teaching",
-    "text": "Online Teaching\n\nBasics of Programming with Python (1 day)\n2nd International Applied Statistics Congress, 29 June-2 July 2021 (upcoming)\nAn Introduction to R (2 days)\nAYBU Statistics & Data Science Club, 20-21 March 2021\nAn Introduction to R Programming (3 days)\nMETU Statistics Club, 6-7-8 February 2021\nTime Series with R (2 days)\nESTU Veri Bilimi Klubü, 1-2 December 2020\nR Language: A Fresh Start (3 days)\nMETU SIAM Student Chapter, 29 Nov.- 1 Dec. 2020\n\n\nPreviously\nI had successfully taught a large variety of courses from introductory service courses to some upper level math courses at Atılım University between 2009-2019. I have gained experience about preparing homework, reading exam and quiz papers and other related academic duties, worthwhile for my future academic career. In my last year, I had a fruitful practice for giving a lecture for an introductory statistics course, with high evaluation results. I could teach the following courses with a high level of expertise: Calculus, Mathematical Analysis, Numerical Analysis, Introduction to Probability and Statistics, Introduction to Mathematical Finance, Copula Theory, Computational Statistics. Besides, I supervised the members of ArfMathClub in the Department for one semester."
-  },
-  {
-    "objectID": "teaching.html#online-webinars",
-    "href": "teaching.html#online-webinars",
-    "title": "Teaching",
-    "section": "Online Webinars",
-    "text": "Online Webinars\n\nBasics of Programming with Python (1 day)\n2nd International Applied Statistics Congress, 29 June-2 July 2021 (upcoming)\nAn Introduction to R (2 days)\nAYBU Statistics & Data Science Club, 20-21 March 2021\nAn Introduction to R Programming (3 days)\nMETU Statistics Club, 6-7-8 February 2021\nTime Series with R (2 days)\nESTU Veri Bilimi Klubü, 1-2 December 2020\nR Language: A Fresh Start (3 days)\nMETU SIAM Student Chapter, 29 Nov.- 1 Dec. 2020"
-  },
-  {
-    "objectID": "outreach.html",
-    "href": "outreach.html",
-    "title": "Talks",
-    "section": "",
-    "text": "In addition to my official teaching and research duties, I have been interested in giving online training courses since COVID pandemic. These efforts turned to be a permanent habit and I shared my experiences with interested people regularly. Besides, in an irregular setting, happy to share some short mediums for different topics and ideas.\n\n\n\nGenerative AI\n\nBeyond using LLM interfaces: Backstage exploration\nCentre for Data, Culture and Society Summer School. A Gentle Introduction to Coding for Data Analysis Stream, June 2024.\nEfficient Prompting for Generative AI Tools\nCentre for Data, Culture and Society Summer School, January 2024.\nTalking with your data: Langchain use case\nUniversity of Edinburgh, School of Mathematics, ML Reading Group, December 2023.\nHarnessing Gen-AI for teaching/research\nDirected Reading Program (DRP2023) - Professional Development Talks, July 2023.\n\n\n\n\nConference Courses\n\nHarnessing Generative Artificial Intelligence (GEN-AI) for Teaching/Learning/Research\n4th International Applied Statistics Congress September 30, 2023\nAcademic Writing and Reporting Tools\n3rd International Applied Statistics Congress June 21, 2022\nBasics of Programming with Python\n2nd International Applied Statistics Congress 29 June-2 July 2021\n\n\n\n\nSocities & Student Clubs\n\nData Visualization with R\nR Ladies Turkey Ankara talk, September 2021\nData Science with R (5 weeks)\nData Science Earth Online Course, Summer 2021\nThe Use of R Language in the Insurance Industry and Thinking future loudly\nTurkish Actuary Society invited, November 2021\nBasic Statistics with Python\nGazi University, Statistics Club, May 2021.\nAbout Data Science\nYozgat Bozok University, Departmental Seminar, May 2021.\nUse of R for Actuarial Science\nKirikkale University, Seminar for Course, May 2021.\nAn Introduction to R (2 days)\nAYBU Statistics & Data Science Club, 20-21 March 2021\nAn Introduction to R Programming (3 days)\nMETU Statistics Club, 6-7-8 February 2021\nTime Series with R (2 days)\nESTU Veri Bilimi Klubü, 1-2 December 2020\nR Language: A Fresh Start (3 days)\nMETU SIAM Student Chapter, 29 Nov.- 1 Dec. 2020"
-  },
-  {
-    "objectID": "Projects.html",
-    "href": "Projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "SoR / SwDS Dissertation Projects\n\n\nUnderstanding factors of Dementia in depth: Explainable AI (XAI) approach\nSupervising Kezheng Wang, SoR MSc Thesis, Summer 2024\nWavelet based copula approach for modeling market risk: Turkey ISE-100 Case Study\nSupervising Xin Wang, SoR MSc Thesis, Summer 2024\nUnderstanding the product performance of Fouling Control Coatings\nSwDS MSc Thesis with groups - External: AkzoNobel, Summer 2023\nEvaluating Students Attitudes towards Statistics\nSupervising Shuyu Liu, SoR MSc Thesis, Summer 2022\n\n\n\n\nUG Final Year Projects\n\n\nTurkey Stock market Dependencies: Study based on wavelet-vine copula approach\nSupervising Tim Xu, Huari Yang and Maiyue Xu, UG group project, 2023-2024\nStarting journey for Explainable and Responsible Artificial Intelligence: Experiments on Insurance Data\nSupervising Richard Huang and Callum Purcell, UG group project, 2023-2024\nNonparametric copula based drought analysis\nSupervising Hongyi Lu, UG project, 2022-2023\n\n\n\n\nOthers\n\n\nUnderstanding LLMs and GenAI\nTurkish Mathematics Assocation - Direct Reading Program with Emre Anıl Oguz, July-August 2023\nApplication of Algorithmic Trading in Portfolio Optimization\nUniversity of Edinburgh - Vacation Scholarship with Rishabh Ramruttun, Summer 2023"
-  },
-  {
-    "objectID": "Projects.html#sor-swds-dissertation-projects",
-    "href": "Projects.html#sor-swds-dissertation-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Understanding factors of Dementia in depth: Explainable AI (XAI) approach\nSupervising Kezheng Wang, SoR MSc Thesis, Summer 2024\nWavelet based copula approach for modeling market risk: Turkey ISE-100 Case Study\nSupervising Xin Wang, SoR MSc Thesis, Summer 2024\nUnderstanding the product performance of Fouling Control Coatings\nSwDS MSc Thesis with groups - External: AkzoNobel, Summer 2023\nEvaluating Students Attitudes towards Statistics\nSupervising Shuyu Liu, SoR MSc Thesis, Summer 2022\n\n\n\n\nUG Final Year Projects\n\n\n\n\nTurkey Stock market Dependencies: Study based on wavelet-vine copula approach\nSupervising Tim Xu, Huari Yang and Maiyue Xu, UG group project, 2023-2024\nStarting journey for Explainable and Responsible Artificial Intelligence: Experiments on Insurance Data\nSupervising Richard Huang and Callum Purcell, UG group project, 2023-2024\nNonparametric copula based drought analysis\nSupervising Hongyi Lu, UG project, 2022-2023\n\n\n\n\nOTHERS\n\n\n\n\nUnderstanding LLMs and GenAI\nTurkish Mathematics Assocation - Direct Reading Program with Emre Anıl Oguz, July-August 2023\nApplication of Algorithmic Trading in Portfolio Optimization\nUniversity of Edinburgh - Vacation Scholarship with Rishabh Ramruttun, Summer 2023"
-  },
-  {
-    "objectID": "Projects.html#ug-final-year-projects",
-    "href": "Projects.html#ug-final-year-projects",
-    "title": "Projects",
-    "section": "UG Final Year Projects",
-    "text": "UG Final Year Projects\n\nTurkey Stock market Dependencies: Study based on wavelet-vine copula approach\nSupervising Tim Xu, Huari Yang and Maiyue Xu, UG group project, 2023-2024\nStarting journey for Explainable and Responsible Artificial Intelligence: Experiments on Insurance Data\nSupervising Richard Huang and Callum Purcell, UG group project, 2023-2024\nNonparametric copula based drought analysis\nSupervising Hongyi Lu, UG project, 2022-2023"
-  },
-  {
-    "objectID": "Projects.html#others",
-    "href": "Projects.html#others",
-    "title": "Projects",
-    "section": "OTHERS",
-    "text": "OTHERS\n\nUnderstanding LLMs and GenAI\nTurkish Mathematics Assocation - Direct Reading Program with Emre Anıl Oguz, July-August 2023\nApplication of Algorithmic Trading in Portfolio Optimization\nUniversity of Edinburgh - Vacation Scholarship with Rishabh Ramruttun, Summer 2023"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "If you have any questions or inquiries, please fill out the form below:\n\nName \nEmail \nMessage\n\n\nSend"
   }
 ]

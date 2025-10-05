@@ -29,9 +29,9 @@ about:
 
 <p style="text-align: justify;">
 
-I am University Teacher in Statistics at the [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1035), at the University of Edinburgh, and a part-time remote lecturer at Istinye University. In November 2023, I got the fellowship accreditation of Higher Education Academics in UK (FHEA). Previously, I held two postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018.
+I am a Lecturer in Statistics at the [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1035), at the University of Edinburgh, and a part-time remote lecturer at Istinye University. In November 2023, I got the fellowship accreditation of Higher Education Academics in UK (FHEA). Previously, I held two postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018.
 
-Outside of university teaching, I am a **co-organiser** of Technology Enhanced Mathematical Sciences Education (TEMSE) seminars in School of Math, Generative AI TEMSE co-lead, **EdinbR community** and **RSS Edinburgh** local group member.
+Outside of university teaching, I was a **co-organiser** of Technology Enhanced Mathematical Sciences Education (TEMSE) seminars in School of Math for 2023-2025, nowadays having the roles of Academic Cohort Lead (ACL), Generative AI TEMSE co-lead, **EdinbR community** and **RSS Edinburgh** local group member.
 
 </p>
 
