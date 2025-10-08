@@ -22,7 +22,6 @@ about:
     - icon: google-scholar
       text: Google Scholar
       href: http://tinyurl.com/oevkaya
-
 ---
 
 ### About {.test}
@@ -31,7 +30,7 @@ about:
 
 I am a Lecturer in Statistics at the [School of Mathematics](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=1035), at the University of Edinburgh, and a part-time remote lecturer at Istinye University. In November 2023, I got the fellowship accreditation of Higher Education Academics in UK (FHEA). Previously, I held two postdoc positions at Padova University (2021) and KU Leuven (2020), after completing my PhD at Middle East Technical University in 2018.
 
-Outside of university teaching, I was a **co-organiser** of Technology Enhanced Mathematical Sciences Education (TEMSE) seminars in School of Math for 2023-2025, nowadays having the roles of Academic Cohort Lead (ACL), Generative AI TEMSE co-lead, **EdinbR community** and **RSS Edinburgh** local group member.
+Outside of university teaching, I was a **co-organiser** of Technology Enhanced Mathematical Sciences Education (TEMSE) seminars in School of Math for 2023-2025, nowadays having the roles of Academic Cohort Lead (ACL), Generative AI TEMSE co-lead, **EdinbR community** and **RSS Edinburgh** local group member. In addition to my official teaching and research duties, I have been interested in giving online training courses since COVID pandemic. These efforts turned to be a permanent habit and I shared my experiences with interested people.
 
 </p>
 
@@ -80,4 +79,3 @@ I'm looking to collaborate on copulas and its applications, statistical methods 
 <!-- [View Publications](static/Publications_ozanevkaya.pdf) -->
 
 <!-- [Teaching Statement](static/Teaching_ozanevkaya.pdf) -->
-

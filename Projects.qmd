@@ -18,6 +18,22 @@ about:
       href: http://tinyurl.com/oevkaya
 ---
 
+### Funded Projects {.test}
+
+------------------------------------------------------------------------
+
+-   **Developing an Edited Volume and Online Resources for Programming Pedagogy Across Disciplines**\
+    [PTAS funded project](https://pairprogramming.ed.ac.uk/category/book/), January 2025 - 2026
+
+-   **Fostering Student-Staff collaboration for Generative AI literacy toolkit**\
+    Student Experience Grant project, January-December 2025
+
+-   **LLMs for Data Science: Are they ready for Data science?**\
+    [GAIL seed funded project](https://github.com/oevkaya/GAIL-DS-project), January-July 2025
+    
+-   **GAIL: Generative Creative Visions initiative seed funding**\
+    [GAIL seed fund-interdisciplinary project](https://drive.google.com/drive/folders/1NNaQbc622FgZwe2SxTUQpE3N0Ec53WWI), March-July 2025
+
 ### SoR / SwDS Dissertation Projects {.test}
 
 ------------------------------------------------------------------------

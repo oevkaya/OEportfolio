@@ -16,24 +16,39 @@ about:
     - icon: google-scholar
       text: Google Scholar
       href: http://tinyurl.com/oevkaya
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/ozanevkaya
 ---
 
-<div class="justify-text">
-In addition to my official teaching and research duties, I have been interested in giving online training courses since COVID pandemic. These efforts turned to be a permanent habit and I shared my experiences with interested people regularly. Besides, in an irregular setting, happy to share some short mediums for different topics and ideas.
-</div>
+::: justify-text
+Specific recent talks added below only.
+:::
 
 ------------------------------------------------------------------------
 
 ### *Generative AI* {.test}
 
+-   **Rethinking Teaching and Learning in The Mathematical Sciences in Times of Generative AI**\
+    [IMA, RSS & LMS Higher Education Teaching and Learning Workshop Series 2025](https://oevkaya.github.io/HE-Workshop-Series/), Organiser, July 2025.
+
+-   **Panel Discussion: Reimagining Statistics Education in the Age of AI**\
+    [ROSE e-Conference](https://www.rose-network.org/events/past-events/rose-2025), Panelist Member, July 2025.
+
+-   **Experimentations on the Use of Gen-AI in Statistics and Data Science**\
+    [Directed Reading Program (DRP)](https://sites.google.com/view/drpturkiye/), Colloquim Talk, July 2025.
+
+-   **Reconsidering assessment in HE in the era of Gen-AI – Ongoing lessons in School of Mathematics**\
+    [Teaching and Learning Conference](https://institute-academic-development.ed.ac.uk/learning-teaching/practice/ltconf2025), Panel Chair June 2025.
+
+-   **Large Language Models and data science workshop**\
+    GAIL event as short workshop, June 2025.
+    
+-   **LLMs for Data Science: Are they good enough?**\
+    [TALMO Invited speaker, Bridging Innovation and Practice: Integrating Modern AI Technologies into the Statistics Curriculum](https://talmo.uk/2025/AIinStats.html), April 2025.
+
 -   **Beyond using LLM interfaces: Backstage exploration**\
     Centre for Data, Culture and Society Summer School. A Gentle Introduction to Coding for Data Analysis Stream, June 2024.
 
 -   **Efficient Prompting for Generative AI Tools**\
-    Centre for Data, Culture and Society Summer School, January 2024.
+    Centre for Data, Culture and Society Summer School, January, November 2024.
 
 -   **Talking with your data: Langchain use case**\
     University of Edinburgh, School of Mathematics, ML Reading Group, December 2023.
